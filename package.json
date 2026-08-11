@@ -1,5 +1,122 @@
-{
-    "Name":"Amit",
-    "age":20,
-    "course":"bca"
-}
+[
+  {
+    "question": "What is the capital of Uttar Pradesh?",
+    "a": "Lucknow",
+    "b": "Kanpur",
+    "c": "Varanasi",
+    "d": "Agra",
+    "answer": 1
+  },
+  {
+    "question": "What is the capital of Bihar?",
+    "a": "Gaya",
+    "b": "Patna",
+    "c": "Bhagalpur",
+    "d": "Muzaffarpur",
+    "answer": 2
+  },
+  {
+    "question": "What is the capital of India?",
+    "a": "Mumbai",
+    "b": "New Delhi",
+    "c": "Kolkata",
+    "d": "Chennai",
+    "answer": 2
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "a": "Earth",
+    "b": "Jupiter",
+    "c": "Mars",
+    "d": "Venus",
+    "answer": 3
+  },
+  {
+    "question": "Who is known as the Father of the Nation in India?",
+    "a": "Jawaharlal Nehru",
+    "b": "Bhagat Singh",
+    "c": "Subhas Chandra Bose",
+    "d": "Mahatma Gandhi",
+    "answer": 4
+  },
+  {
+    "question": "Which is the largest ocean in the world?",
+    "a": "Atlantic Ocean",
+    "b": "Indian Ocean",
+    "c": "Pacific Ocean",
+    "d": "Arctic Ocean",
+    "answer": 3
+  },
+  {
+    "question": "How many continents are there on Earth?",
+    "a": "5",
+    "b": "6",
+    "c": "7",
+    "d": "8",
+    "answer": 3
+  },
+  {
+    "question": "Which language is used for styling web pages?",
+    "a": "HTML",
+    "b": "CSS",
+    "c": "Java",
+    "d": "Python",
+    "answer": 2
+  },
+  {
+    "question": "Who invented the telephone?",
+    "a": "Alexander Graham Bell",
+    "b": "Thomas Edison",
+    "c": "Nikola Tesla",
+    "d": "James Watt",
+    "answer": 1
+  },
+  {
+    "question": "Which is the national animal of India?",
+    "a": "Lion",
+    "b": "Elephant",
+    "c": "Leopard",
+    "d": "Tiger",
+    "answer": 4
+  },
+  {
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "a": "Oxygen",
+    "b": "Nitrogen",
+    "c": "Carbon Dioxide",
+    "d": "Hydrogen",
+    "answer": 3
+  },
+  {
+    "question": "Which is the smallest prime number?",
+    "a": "1",
+    "b": "2",
+    "c": "3",
+    "d": "5",
+    "answer": 2
+  },
+  {
+    "question": "Who wrote the Indian National Anthem?",
+    "a": "Premchand",
+    "b": "Bankim Chandra Chatterjee",
+    "c": "Rabindranath Tagore",
+    "d": "Sarojini Naidu",
+    "answer": 3
+  },
+  {
+    "question": "What is the full form of CPU?",
+    "a": "Central Process Unit",
+    "b": "Central Processing Unit",
+    "c": "Computer Processing Unit",
+    "d": "Central Program Unit",
+    "answer": 2
+  },
+  {
+    "question": "Which company developed Java?",
+    "a": "Microsoft",
+    "b": "Google",
+    "c": "Apple",
+    "d": "Sun Microsystems",
+    "answer": 4
+  }
+]
